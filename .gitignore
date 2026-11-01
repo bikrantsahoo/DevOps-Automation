@@ -1,0 +1,12 @@
+# Terraform downloaded providers and working files
+**/.terraform/*
+
+# Terraform state files
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
+
+# Sensitive variable files
+*.auto.tfvars
+*.auto.tfvars.json
