@@ -1,4 +1,4 @@
-# Task 3 - Cross Account IAM
+# Task 3 - Cross Account IAMs
 
 ## Implementation
 
