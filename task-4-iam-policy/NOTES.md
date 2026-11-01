@@ -6,7 +6,7 @@ In this task I have created a custom IAM policy for the CI user.
 
 The policy provides the permissions required for a CI/CD pipeline to push Docker images to ECR and deploy the application using ECS.
 
-## Permissions Included
+## Permissions Includeds
 
 The policy allows:
 
