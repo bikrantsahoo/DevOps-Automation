@@ -4,9 +4,9 @@
 
 In this task I have used terraform to create 5 EC2 instances.
 
-Instead of creating 5 seperate resource blocks, I used for_each so all the instances can be created using one input variable called instances.
+Instead of creatig 5 seperate resources blocks, I used for_each so all the instances can be created using one input variable called instances.
 
-Each instance have different configuration:
+Each instance have different configurations:
 - Different instance type
 - Different key pair
 - Different root volume type
