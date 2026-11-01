@@ -17,7 +17,7 @@ I have created a DynamoDB table to handle state locking.
 
 When multiple users try to run Terraform at the same time, the lock helps prevent them from modifying the state file simultaneously.
 
-The table uses LockID as the partition key.
+The table uses LockID as the partition keys.
 
 ## Variables and Outputs
 
