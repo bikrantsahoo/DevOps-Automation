@@ -1,6 +1,6 @@
 # Task 5 - Find and Fix the Bug
 
-I found two issues in the given Terraform configuration.
+I found two issues in the given Terraform configurations.
 
 ## Issue 1 - Incorrect Trust Policy Principal
 
